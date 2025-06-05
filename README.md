@@ -26,9 +26,8 @@ A **Flutter app** for managing your daily tasks. Built with **Flutter**, **River
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/1pdhDv6LRN2h/0.jpg)](https://drive.google.com/file/d/1pdhDv6LRN2hHc1LVoYjbNpXE-yJVQy9x/view?usp=sharing)
+[![Watch the Demo]](https://drive.google.com/file/d/1pdhDv6LRN2hHc1LVoYjbNpXE-yJVQy9x/view?usp=sharing)
 
-> _Click the image above to view the full demo on Google Drive._
 
 ---
 
@@ -58,10 +57,10 @@ flutter run
 ```
 ✅ Note: Make sure to use Android NDK 27.0.12077973
 (You can verify or change it in android/app/build.gradle.kts if build errors occur.)
-```bash
+
 ###📂 Folder Structure
 
-
+```bash
 lib/
 ├── main.dart
 ├── models/
