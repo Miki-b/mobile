@@ -49,13 +49,16 @@ A **Flutter app** for managing your daily tasks. Built with **Flutter**, **River
 git clone https://github.com/Miki-b/mobile.git
 cd task_manager
 Run the app
+```
+
+
 
 ```bash
-
 flutter run
+```
 ✅ Note: Make sure to use Android NDK 27.0.12077973
 (You can verify or change it in android/app/build.gradle.kts if build errors occur.)
-
+```bash
 ###📂 Folder Structure
 
 
@@ -67,3 +70,4 @@ lib/
 │   └── task_provider.dart
 ├── db/
 │   └── db_helper.dart
+```
